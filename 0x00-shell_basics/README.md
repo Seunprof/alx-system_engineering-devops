@@ -1,1 +1,1 @@
-pwd script
+Scripting for shell navigation
