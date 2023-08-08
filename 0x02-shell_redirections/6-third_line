@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 3 iacta > tmpfile ; tail -n 1 tmpfile ; rm tmpfile
+head -n 3 iacta | tail -n 1
