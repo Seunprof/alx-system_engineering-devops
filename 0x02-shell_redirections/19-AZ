@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "AaBcCc" | tr 'AaCc' 'Ze'
+tr 'Ac' 'Ze'
