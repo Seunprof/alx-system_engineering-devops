@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "alias hello='echo \"Hello \$USER\"'" >> ~/.bashrc
-source ~/.bashrc
+echo "alias hello='echo \"Hello \$USER\"'" >> ~/.bashrc; source ~/.bashrc
